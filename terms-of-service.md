@@ -189,8 +189,8 @@ Ces conditions, avec notre Politique de Confidentialité, constituent l'intégra
 
 Pour toute question concernant ces conditions :
 
-**Email** : legal@tuumbaore.com  
-**Support** : support@tuumbaore.com
+**Email** : kimathierry@gmail.com
+**Support** : support@tewendelabs.com
 
 ---
 

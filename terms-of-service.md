@@ -190,7 +190,7 @@ Ces conditions, avec notre Politique de Confidentialité, constituent l'intégra
 Pour toute question concernant ces conditions :
 
 **Email** : kimathierry@gmail.com
-**Support** : support@tewendelabs.com
+**Support** : kimathierry@gmail.com
 
 ---
 

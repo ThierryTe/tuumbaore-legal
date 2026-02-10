@@ -99,7 +99,7 @@ Conformément aux lois applicables, vous disposez des droits suivants :
 - **Droit d'opposition** : Vous opposer au traitement de vos données
 - **Droit à la portabilité** : Recevoir vos données dans un format structuré
 
-Pour exercer ces droits, contactez-nous à : **privacy@tuumbaore.com**
+Pour exercer ces droits, contactez-nous à : **kimathierry@gmail.com**
 
 ## 8. Suppression de votre compte
 
@@ -110,7 +110,7 @@ Vous pouvez supprimer votre compte à tout moment :
 3. Sélectionnez **"Supprimer mon compte"**
 4. Confirmez votre choix
 
-Ou envoyez-nous un email à : **support@tuumbaore.com**
+Ou envoyez-nous un email à : **kimathierry@gmail.com**
 
 Après suppression :
 - Vos services ne seront plus visibles
@@ -155,8 +155,8 @@ Vos données sont stockées et traitées au Burkina Faso. Nous ne transférons p
 
 Si vous avez des questions concernant cette politique de confidentialité ou vos données personnelles, contactez-nous :
 
-**Email** : privacy@tuumbaore.com  
-**Support** : support@tuumbaore.com  
+**Email** : kimathierry@gmail.com  
+**Support** : kimathierry@gmail.com 
 **Adresse** : [Votre adresse au Burkina Faso]
 
 ## 15. Conformité légale
